@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RakeshkGP
-- 👀 I’m interested in building intelligent Machines to automate boring things
-- 🌱 I’m currently learning Jax, Deep Learning
+- 👋 Hi, I’m @Rakeshk
+- 👀 I’m interested in building Intelligent Machines to Automate decisions.
+- 🌱 I’m currently learning Jax, Deep Learning.
 - 📫 How to reach me @ [rakesh@gameopedia.com](mailto:rakesh@gameopedia.com)
-
 - 😄 Pronouns: The Great
 - ⚡ Fun fact: 
 
