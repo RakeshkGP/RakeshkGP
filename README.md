@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakeshk
-- 👀 I’m interested in building Intelligent Machines to Automate decisions.
+- 👀 I’m interested in building Intelligent Machines to Improve Life of all.
 - 🌱 I’m currently learning Jax, Deep Reinforcement Learning.
 - 📫 How to reach me @ [rakesh@gameopedia.com](mailto:rakesh@gameopedia.com)
 
